@@ -1,4 +1,4 @@
-# ZehnerGroup Slate tools
+# Bear Slate tools
 
 ## Background
 
@@ -15,7 +15,7 @@ As such, this version of Slate cannot deploy to Shopify. Repos installing this v
 Update your project's `@shopify/slate-tools` dependency to the following:
 
 ```
-"@shopify/slate-tools": "git+https://github.com/zehnergroup/slate-tools.git#[HEAD COMMIT OF THIS BRANCH]"
+"@shopify/slate-tools": "git+https://github.com/scoutside/slate-tools.git#[HEAD COMMIT OF THIS BRANCH]"
 ```
 
 - Replace `[HEAD COMMIT OF THIS BRANCH]` with the latest commit hash of this branch
